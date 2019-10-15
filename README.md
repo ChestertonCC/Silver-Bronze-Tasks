@@ -6,3 +6,5 @@ Click [HERE](https://github.com/ChestertonCC/Silver-Bronze-Tasks/tree/master/PRO
 Click [HERE](https://github.com/ChestertonCC/Silver-Bronze-Tasks/blob/master/PROGRAMMING%20-%20BRONZE%20LEVEL%20TASKS/PROGRAMMING%20-%20BRONZE%20LEVEL%20TASKS%20-%20Python%20Codes.txt) for the bronze taks answers.
 <br>
 Click [HERE](https://github.com/ChestertonCC/Silver-Bronze-Tasks/blob/master/PROGRAMMING%20-%20SILVER%20LEVEL%20TASKS/PROGRAMMING%20-%20SILVER%20LEVEL%20TASKS%20-%20Python%20Codes.txt) for the silver taks answers.
+<br>
+Enjoy! :)
